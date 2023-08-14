@@ -1,2 +1,2 @@
 # reflexoffice-api-python
-Backend for ReflexOffic using MySql server.
+Backend for ReflexOffice using MySql server.
